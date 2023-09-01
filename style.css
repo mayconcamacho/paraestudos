@@ -1,0 +1,44 @@
+body {
+background-image: url(images\ \(1\).jpeg);
+background-repeat: no-repeat;
+background-size: 100%;
+
+
+}
+.cabeçalho {
+display: flex;
+justify-content: center;
+color: white;
+
+
+}
+.img {
+
+width: 10%;
+
+}
+.MENU {
+
+display: flex;
+justify-content: space-around;
+color: white;
+
+}
+.texto {
+color: white;
+font-size: 28px;
+
+}
+.img02 {
+display: flex;
+justify-content: center;
+justify-content: space-around;
+
+
+}
+.pe {
+display: flex;
+justify-content: space-around;
+color: white;
+
+}
